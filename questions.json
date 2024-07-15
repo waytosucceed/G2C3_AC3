@@ -1,0 +1,184 @@
+[
+    {
+      "questionNo": "Q1.",
+      "image": "./Assests/question_img.png",
+      "question": "The noun 'actor' is a masculine gender noun.",
+      "options": ["True", "False"],
+      "correct": 0,
+      "explanation": "\"Actor\" traditionally refers to a male person who performs in plays, movies, or TV shows."
+    },
+    {
+      "questionNo": "Q2.",
+      "question": "Which of the following is a feminine gender noun?",
+      "options": ["Prince", "Actress", "Book", "Lion"],
+      "correct": 1,
+      "explanation": "\"Actress\" refers to a female person who performs in plays, movies, or TV shows."
+    },
+    {
+      "questionNo": "Q3.",
+      "question": "The noun 'blanket' is a neuter gender noun.",
+      "options": ["True", "False"],
+      "correct": 0,
+      "explanation": "\"Blanket\" is an inanimate object and does not have a biological gender."
+    },
+    {
+      "questionNo": "Q4.",
+      "question": "Identify the neuter gender noun in the following list:",
+      "options": ["Stallion", "Book", "Actress", "King"],
+      "correct": 1,
+      "explanation": "\"Book\" is an inanimate object and does not have a gender."
+    },
+    {
+      "questionNo": "Q5.",
+      "question": "The noun 'lioness' is a masculine gender noun.",
+      "options": ["True", "False"],
+      "correct": 1,
+      "explanation": "\"Lioness\" is the feminine form of \"lion,\" indicating a female lion."
+    },
+    {
+      "questionNo": "Q6.",
+      "question": "What is the masculine gender of the noun 'actress'?",
+      "options": ["Mare", "City", "Actor", "Tree"],
+      "correct": 2,
+      "explanation": "\"Actor\" refers to a male person who performs in plays, movies, or TV shows."
+    },
+    {
+      "questionNo": "Q7.",
+      "question": "The noun 'car' is a neuter gender noun.",
+      "options": ["True", "False"],
+      "correct": 0,
+      "explanation": "\"Car\" is an inanimate object and does not have a gender."
+    },
+    {
+      "questionNo": "Q8.",
+      "question": "\"Queen\" is a ________ gender noun.",
+      "options": ["Feminine", "Masculine", "Neuter"],
+      "correct": 0,
+      "explanation": "\"Queen\" is a feminine gender noun. It refers to a female ruler."
+    },
+    {
+      "questionNo": "Q9.",
+      "question": "What is the feminine gender of the noun 'father'?",
+      "options": ["Niece", "Grandmother", "Mother", "Wife"],
+      "correct": 2,
+      "explanation": "\"Mother\" is the direct feminine form of \"father.\" A mother is the female parent, just as a father is the male parent."
+    },
+    {
+      "questionNo": "Q10.",
+      "question": "Identify the masculine gender noun:",
+      "options": ["Actress", "City", "Man", "Book"],
+      "correct": 2,
+      "explanation": "\"Man\" denotes a male person, making it a masculine gender noun."
+    },
+    {
+      "questionNo": "Q11.",
+      "question": "Identify the masculine gender of the noun 'mare'.",
+      "options": ["Bull", "Horse", "Vixen", "Cow"],
+      "correct": 1,
+      "explanation": "A male horse is also called a stallion or a gelding."
+    },
+    {
+      "questionNo": "Q12.",
+      "question": "Which of the following is a neuter gender noun?",
+      "options": ["Table", "Car", "Stallion", "Both A and B"],
+      "correct": 3,
+      "explanation": "\"Table\" and \"Car\" are both neuter-gender nouns. Neuter gender nouns refer to inanimate objects or abstract concepts that do not have biological gender."
+    },
+    {
+      "questionNo": "Q13.",
+      "question": "Identify the feminine gender of the noun 'waiter'.",
+      "options": ["Waiters", "Waitress", "She-waiter", "None of the above"],
+      "correct": 1,
+      "explanation": "\"Waitress\" is the feminine gender of the noun \"waiter.\" It refers to a female waiter."
+    },
+    {
+      "questionNo": "Q14.",
+      "question": "Which noun is masculine?",
+      "options": ["Mare", "Actress", "Book", "Peacock"],
+      "correct": 3,
+      "explanation": "\"Peacock\" is a masculine gender noun, as it refers to the male of the peafowl species."
+    },
+    {
+      "questionNo": "Q15.",
+      "question": "\"Goose\" is a feminine gender.",
+      "options": ["True", "False"],
+      "correct": 0,
+      "explanation": "\"Goose\" typically refers to the female, while \"gander\" refers to the male."
+    },
+    {
+      "questionNo": "Q16.",
+      "question": "Which of the following is a neuter gender noun?",
+      "options": ["King", "Actress", "City", "Mare"],
+      "correct": 2,
+      "explanation": "\"City\" is an inanimate object and does not have a gender."
+    },
+    {
+      "questionNo": "Q17.",
+      "question": "The noun 'stallion' is a masculine gender noun.",
+      "options": ["True", "False"],
+      "correct": 0,
+      "explanation": "\"Stallion\" refers to a male horse. Masculine gender nouns denote male persons or animals."
+    },
+    {
+      "questionNo": "Q18.",
+      "question": "The word 'neuter' itself is an example of a neuter gender noun.",
+      "options": ["True", "False"],
+      "correct": 0,
+      "explanation": "\"Neuter\" is an inanimate concept that does not have a gender, making it a neuter noun."
+    },
+    {
+      "questionNo": "Q19.",
+      "question": "Identify the masculine noun in this sentence: 'The poet composed a beautiful sonnet for his muse.'",
+      "options": ["Poet", "Sonnet", "Muse", "Beautiful"],
+      "correct": 0,
+      "explanation": "\"Poet\" can refer to any gender, but in this context, it specifies a male due to the pronoun 'his.'"
+    },
+    {
+      "questionNo": "Q20.",
+      "question": "Which of the following is not a feminine gender noun?",
+      "options": ["Countess", "Empress", "Mare", "Steward"],
+      "correct": 3,
+      "explanation": "\"Steward\" refers to a male person, while the feminine form would be \"stewardess.\""
+    },
+    {
+      "questionNo": "Q21.",
+      "question": "What is the feminine gender of the noun 'lion'?",
+      "options": ["Lions", "Vixen", "Lioness", "Tiger"],
+      "correct": 2,
+      "explanation": "\"Lioness\" is the feminine gender of the noun \"lion.\""
+    },
+    {
+      "questionNo": "Q22.",
+      "question": "Which of the following pairs contains one masculine and one neuter noun?",
+      "options": ["Stallion, Mare", "King, Country", "Actor, Actress", "Duke, Duchess"],
+      "correct": 1,
+      "explanation": "\"King\" is masculine, and \"Country\" is a neuter noun as it does not specify gender."
+    },
+    {
+      "questionNo": "Q23.",
+      "question": "The noun 'orphan' is always a neuter gender noun.",
+      "options": ["True", "False"],
+      "correct": 0,
+      "explanation": "\"Orphan\" does not specify gender and can refer to a child of any gender, making it neuter."
+    },
+    {
+      "questionNo": "Q24.",
+      "question": "Which of the following sentences contains a feminine gender noun?",
+      "options": [
+        "The professor lectured on ancient history.",
+        "The empress ruled with wisdom and grace.",
+        "The mountain stood tall and majestic.",
+        "The athlete broke several records."
+      ],
+      "correct": 1,
+      "explanation": "\"Empress\" is a feminine noun referring to a female ruler."
+    },
+    {
+      "questionNo": "Q25.",
+      "question": "\"Hospital\", \"Bed\", and \"Cow\" are neuter-gender nouns.",
+      "options": ["True", "False"],
+      "correct": 1,
+      "explanation": "\"Hospital\" and \"Bed\" are neuter gender nouns. A \"cow\" is a feminine gender noun."
+    }
+  ]
+  
